@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369792029232",
+    "project_id": "fir-8951d",
+    "storage_bucket": "fir-8951d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369792029232:android:111c25ee413bdc52f613f5",
+        "android_client_info": {
+          "package_name": "com.example.botoifuntzioademo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KgF7NdQj7tzECqJ9CTbuSiCvdC2xHvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
